@@ -1,4 +1,6 @@
-### Hi, I'm Tedi 👋 a React | Node developer, early career and excited to work!!!!
+### Hi, I'm Tedi 👋 
+React | Node developer, 
+Early career and excited to work
 
 <!--
 **Tedicode/Tedicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
