@@ -1,6 +1,6 @@
 ### Hi, I'm Tedi 👋 
 React | Node developer, 
-Early career and excited to work
+Early career and Fullstack Grad
 
 <!--
 **Tedicode/Tedicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,8 +9,7 @@ Early career and excited to work
 
 
 
-- 🔭 I’m currently working on my web presence as a developer - and building a network!
-- 🌱 On the agenda right now: learning GraphQL, NextJS, and TypeScript
+- 🔭 I’m currently learning GraphQL, NextJS, and TypeScript
 -  :heart_eyes:  Current Inspiration : Ania Kubow !!! 
 - 👯 I’m looking to collaborate on creative fullstack applications that connect users and incorporate social APIs
 - 🤔 I’m looking for help with the best backend solutions for front end development 
