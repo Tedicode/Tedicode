@@ -8,7 +8,7 @@ React | Node developer, and Fullstack Academy Grad
  
 Frontend Software Engineer building with React, TypeScript, and Next.js — currently focused on large-scale internal tools and exploring product ideas on the side.
  
-## 🔗 Featured Project — Interactive Resume
+## Featured Project — Interactive Resume
  
 An animated, storytelling take on the traditional resume — built to show, not just tell.
  
@@ -20,13 +20,13 @@ An animated, storytelling take on the traditional resume — built to show, not 
 - Deployed on Vercel with OpenGraph image generation via `next/og`
 ![Interactive Resume Preview](./assets/resume-preview.png)
  
-## 🛠️ Tech I Work With
+## Tech I Work With
  
 **Frontend:** React · TypeScript · Redux · Next.js · MUI · Tailwind · Framer Motion
 **Backend:** Node.js · Express
 **Other:** Storyblok CMS · Git/GitHub · Vercel
  
-## 💡 What I'm Building
+## What I'm Building
  
 Currently working on **Primer** — an app exploring psychological priming, where users pick a target mindset (Motivated, Focused, Calm, Confident, Kind) and complete a matched interactive activity designed around it.
 
