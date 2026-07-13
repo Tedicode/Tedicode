@@ -35,7 +35,7 @@ Currently working on **Primer** — an app exploring psychological priming, wher
 On creative fullstack applications that connect users and incorporate social APIs.
  
  
-## 📫 Let's Connect
+## Let's Connect
  
 [LinkedIn](https://www.linkedin.com/in/tedilowney) · [Portfolio](https://tedi-lowney-interactive-resume.vercel.app/)
  
